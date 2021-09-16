@@ -1,0 +1,34 @@
+﻿Code,Study,DotName,year,x,y,z,Contrast
+1,Ben-Shachar et al CerCor 2007,Ben-Shachar et al. 2007,2007,-49,-65,-10,ORT/LEX
+2,Binder et al. 2006,Binder et al. 2006,2006,-44,-60,-12,LEX
+2,Binder et al. 2006,Binder et al. 2006,2006,-41,-53,-7,LEX
+3,Cohen et al. Brain 2000,Cohen et al. 2000,2000,-42,-57,-6,ORT/LEX
+4,Cohen et al. Brain 2002,Cohen et al. 2002,2002,-33,-69,-6,LEX
+4,Cohen et al. Brain 2002,Cohen et al. 2002,2002,-42,-54,-12,LEX
+4,Cohen et al. Brain 2002,Cohen et al. 2002,2002,-39,-57,-9,ORT/LEX
+4,Cohen et al. Brain 2002,Cohen et al. 2002,2002,-42,-57,-15,ORT/LEX
+5,Dehaene et al. Psychological Science 2004,Dehaene et al. 2004,2004,-48,-52,-12,LEX
+5,Dehaene et al. Psychological Science 2004,Dehaene et al. 2004,2004,-48,-48,-8,LEX
+5,Dehaene et al. Psychological Science 2004,Dehaene et al. 2004,2004,-48,-56,-8,LEX
+5,Dehaene et al. Psychological Science 2004,Dehaene et al. 2004,2004,-44,-64,-8,ORT/LEX
+5,Dehaene et al. Psychological Science 2004,Dehaene et al. 2004,2004,-36,-68,-12,ORT/LEX
+6,Dehaene et al. Science 2010,Dehaene et al. 2010,2010,-40,-50,-14,ORT/LEX
+6,Dehaene et al. Science 2010,Dehaene et al. 2010,2010,-46,-80,NA,ORT/LEX
+6,Dehaene et al. Science 2010,Dehaene et al. 2010,2010,-44,-56,-14,ORT/LEX
+7,Gaillard et al. Neuron 2006,Gaillard et al. 2006,2006,-57,-54,-3,LEX
+7,Gaillard et al. Neuron 2006,Gaillard et al. 2006,2006,-42,-57,-6,ORT/LEX
+7,Gaillard et al. Neuron 2006,Gaillard et al. 2006,2006,-42,-51,-3,ORT/LEX
+8,Hasson et al. Neuron 2002,Hasson et al. 2002,2002,-40,-66,-9,ORT/LEX (2 foci)
+8,Hasson et al. Neuron 2002,Hasson et al. 2002,2002,-27,-85,-9,ORT/LEX (2 foci)
+9,Lerma-Usabiaga PNAS 2018,Lerma-Usabiaga et al. 2018,2019,-40.92,-59.9,-8.49,LEX
+9,Lerma-Usabiaga PNAS 2018,Lerma-Usabiaga et al. 2018,2019,-43.93,-56.79,-11.17,LEX
+9,Lerma-Usabiaga PNAS 2018,Lerma-Usabiaga et al. 2018,2019,-39.78,-56.3,-10.88,LEX
+9,Lerma-Usabiaga PNAS 2018,Lerma-Usabiaga et al. 2018,2019,-38.82,-72.65,-7.99,ORT/LEX
+9,Lerma-Usabiaga PNAS 2018,Lerma-Usabiaga et al. 2018,2019,-40.4,-69.7,-7.45,ORT/LEX
+9,Lerma-Usabiaga PNAS 2018,Lerma-Usabiaga et al. 2018,2019,-39.08,-72.21,-8.49,ORT/LEX
+10,López-Barroso 2020 (Dehaene 2010),López-Barroso et al. 2020,2020,-44,-50,-14,ORT/LEX
+11,Stevens Jneuro 2017,Stevens et al. 2017,2017,-52,-49,-13,ORT/LEX
+12,Vinckier et al. Cell 2007,Vinckier et al. 2007,2007,-36,-80,-12,ORT/LEX
+12,Vinckier et al. Cell 2007,Vinckier et al. 2007,2007,-50,-40,-18,LEX
+13,White et al PNAS 2019,White et al. 2019,2019,-40.6,-49.1,-20.1,ORT/LEX (2 foci)
+13,White et al PNAS 2019,White et al. 2019,2019,-43.6,-69.1,-12.5,ORT/LEX (2 foci)
